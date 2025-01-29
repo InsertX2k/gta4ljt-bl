@@ -13,7 +13,7 @@ You will need to use files here if you want (for example) to upgrade the bootloa
 
 * Open odin (recommended v3.14.4 at least)
 
-* Put AP,CP into their respective slots.
+* Put BL,CP into their respective slots.
 
 * make sure repartition is NOT enabled and erase NAND is NOT enabled too. (check them in options tab)
 
